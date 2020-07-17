@@ -21,6 +21,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 ### Videos + Films
 
 * [White Like Me - Time Wise (Full Documentary)](https://www.vialogues.com/vialogues/play/23718).
+* [An Economist Looks at 90: Tom Sowell on Charter Schools and Their Enemies](https://www.youtube.com/watch?v=9boQrCPwMws).
 
 
 ## Basics on How Changes Happens
