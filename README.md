@@ -33,6 +33,22 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 
 * [SRF Meditation message on "Finding a unity deeper than race, color, or creed"](https://yogananda.org/blog/finding-a-unity-deeper-than-race-color-or-creed).
 
+
+## Uncouncious Bias
+
+* [Unconscious Bias @ Work | Google Ventures](https://www.youtube.com/watch?v=nLjFTHTgEVU).
+
+
+## At the Workplace
+
+* [The importance of empathy in the workplace](https://risepeople.com/blog/empathy-in-the-workplace/).
+* [Allyship - The Key To Unlocking The Power Of Diversity](https://www.forbes.com/sites/shereeatcheson/2018/11/30/allyship-the-key-to-unlocking-the-power-of-diversity/#2a0475af49c6).
+* [Speaking up without tearing down](https://www.tolerance.org/magazine/spring-2019/speaking-up-without-tearing-down).
+* [How can technology leaders be better allies for diversity?](https://medium.com/@robert.munro/how-can-technology-leaders-be-better-allies-for-diversity-c035d9d42395).
+
+
 ## Resources
 
 * [Better Allies](https://betterallies.com/more-content/).
+* [The Anti-oppression Network](https://theantioppressionnetwork.com/allyship/).
+* [Tech needs more men](https://www.techneedsmoremen.com/).
