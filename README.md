@@ -25,17 +25,19 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [An Economist Looks at 90: Tom Sowell on Charter Schools and Their Enemies](https://www.youtube.com/watch?v=9boQrCPwMws).
 * [The Struggles Of Being An Asian American](https://www.youtube.com/watch?v=9E0_8KPvOt0&feature=youtu.be).
 * [It's (NOT) Just a Phase - The Experiences on Nonbinary Folks 30-70 Years of Age](https://www.youtube.com/watch?v=Bo2FgrTfubw&app=desktop).
+
+## Microaggressions
+
 * [Microaggression are like Mosquito Bytes](https://www.youtube.com/watch?v=hDd3bzA7450).
+* [What exactly is a microaggression?](https://www.vox.com/2015/2/16/8031073/what-are-microaggressions).
+* [Microaggressions Matter](https://www.theatlantic.com/politics/archive/2015/09/microaggressions-matter/406090/).
+* [Microaggressions: More Than Just Race](https://www.psychologytoday.com/ca/blog/microaggressions-in-everyday-life/201011/microaggressions-more-just-race).
+* [Microaggressions at the workplace](https://www.surveymonkey.com/curiosity/microaggressions-research/).
 
 
 ## Basics on How Changes Happens
 
 * [#59 - Prof Cass Sunstein on how change happens, and why it's so often abrupt & unpredictable, 80,000 Hours Podcast with Rob Wiblin](https://open.spotify.com/episode/0PW22bMhmK81ZCKh6ALDDw).
-
-
-## Spiritual Approaches
-
-* [SRF Meditation message on "Finding a unity deeper than race, color, or creed"](https://yogananda.org/blog/finding-a-unity-deeper-than-race-color-or-creed).
 
 
 ## Unconscious Bias
@@ -44,9 +46,11 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [How to combat unconscious bias as an individual](https://www.catalyst.org/research/infographic-how-to-combat-unconscious-bias-as-an-individual/).
 * [Parable of the polygons](https://ncase.me/polygons/).
 * [11 Harmful Types of Unconscious Bias and How to Interrupt Them](https://www.catalyst.org/2020/01/02/interrupt-unconscious-bias/).
+* [Ageism is thriving so what are companies doing about it](https://www.fastcompany.com/90325055/ageism-is-thriving-so-what-are-companies-doing-about-it).
 
 
-## At the Workplace
+
+## In the Workplace
 
 * [The importance of empathy in the workplace](https://risepeople.com/blog/empathy-in-the-workplace/).
 * [Allyship - The Key To Unlocking The Power Of Diversity](https://www.forbes.com/sites/shereeatcheson/2018/11/30/allyship-the-key-to-unlocking-the-power-of-diversity/#2a0475af49c6).
@@ -55,6 +59,10 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Seven Practical ways to reduce bias in your hiring process](https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/7-practical-ways-to-reduce-bias-in-your-hiring-process.aspx).
 * [Hiring Diverse Candidates Is Not Enough -- It's About Keeping Them](https://www.forbes.com/sites/maynardwebb/2017/10/30/hiring-diverse-candidates-is-not-enough-its-about-keeping-them/#496a387e5b7c).
 * [An Incomplete Guide to Inclusive Language for Startups and Tech](https://buffer.com/resources/inclusive-language-tech/).
+* [Types of Employment Discrimination](https://www.thebalancecareers.com/types-of-employment-discrimination-with-examples-2060914).
+* [Dealing with discrimnation in the workplace](https://www.allbusiness.com/dealing-with-discrimination-in-the-workplace-11554-1.html).
+* [How to speak up when you witness discrimination](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janicegassam/2019/07/03/how-to-speak-up-when-you-witness-discrimination/amp/).
+
 
 
 ## Resources
