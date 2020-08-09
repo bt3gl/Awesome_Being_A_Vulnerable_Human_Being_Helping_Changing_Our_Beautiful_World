@@ -32,3 +32,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 ## Spiritual Approaches
 
 * [SRF Meditation message on "Finding a unity deeper than race, color, or creed"](https://yogananda.org/blog/finding-a-unity-deeper-than-race-color-or-creed).
+
+## Resources
+
+* [Better Allies](https://betterallies.com/more-content/).
