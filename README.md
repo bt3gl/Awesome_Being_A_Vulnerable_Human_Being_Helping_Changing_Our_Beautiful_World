@@ -17,14 +17,15 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [U.S. Businesses Must Take Meaningful Action Against Racism](https://hbr.org/2020/06/u-s-businesses-must-take-meaningful-action-against-racism?utm_source=linkedin&utm_medium=social&utm_campaign=hbr).
 * [Resources for non-black folks to self-educate practice](https://www.mbooth.com/blog/resources-for-non-black-folks-to-self-educate-practice-direct-action-a-working-list/).
 * [A sociologist examines the "white fragility" that prevents white americans from confronting racism](https://www.newyorker.com/books/page-turner/a-sociologist-examines-the-white-fragility-that-prevents-white-americans-from-confronting-racism).
-* [The Struggles Of Being An Asian American](https://www.youtube.com/watch?v=9E0_8KPvOt0&feature=youtu.be).
-* [It's (NOT) Just a Phase - The Experiences on Nonbinary Folks 30-70 Years of Age](https://www.youtube.com/watch?v=Bo2FgrTfubw&app=desktop).
+* [Now in Color](https://www.nowincolor.org/).
 
 ### Videos + Films
 
 * [White Like Me - Time Wise (Full Documentary)](https://www.vialogues.com/vialogues/play/23718).
 * [An Economist Looks at 90: Tom Sowell on Charter Schools and Their Enemies](https://www.youtube.com/watch?v=9boQrCPwMws).
-* [Now in Color](https://www.nowincolor.org/).
+* [The Struggles Of Being An Asian American](https://www.youtube.com/watch?v=9E0_8KPvOt0&feature=youtu.be).
+* [It's (NOT) Just a Phase - The Experiences on Nonbinary Folks 30-70 Years of Age](https://www.youtube.com/watch?v=Bo2FgrTfubw&app=desktop).
+* [Microaggression are like Mosquito Bytes](https://www.youtube.com/watch?v=hDd3bzA7450).
 
 
 ## Basics on How Changes Happens
