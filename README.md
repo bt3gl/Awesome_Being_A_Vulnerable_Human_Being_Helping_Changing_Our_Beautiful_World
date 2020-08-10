@@ -9,7 +9,7 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 
 ----
 
-## Basics on Social Issues
+## Institutional Racism
 
 * [What is Racism?](http://www.aclrc.com/racism-and-power).
 * [Forms of Racism](http://www.aclrc.com/forms-of-racism).
@@ -18,6 +18,19 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Resources for non-black folks to self-educate practice](https://www.mbooth.com/blog/resources-for-non-black-folks-to-self-educate-practice-direct-action-a-working-list/).
 * [A sociologist examines the "white fragility" that prevents white americans from confronting racism](https://www.newyorker.com/books/page-turner/a-sociologist-examines-the-white-fragility-that-prevents-white-americans-from-confronting-racism).
 * [Now in Color](https://www.nowincolor.org/).
+* [What white people can do for racial justice](https://medium.com/equality-includes-you/what-white-people-can-do-for-racial-justice-f2d18b0e0234).
+* [Anti-racism project](https://www.antiracismproject.org/resources).
+* [Antiracism resources](https://www.rachelricketts.com/antiracism-resources).
+* [Save the Tears: White Woman's Guide](https://tatianamac.com/posts/save-the-tears/).
+* [How white parents can talk to their kids about race](https://www.npr.org/2020/06/03/869071246/how-white-parents-can-talk-to-their-kids-about-race).
+* [Teaching your child about black history month](https://www.pbs.org/parents/thrive/teaching-your-child-about-black-history-month).
+* [Your Kids Aren't Too Young to Talk About Race: Resource Roundup](https://www.prettygooddesign.org/blog/Blog%20Post%20Title%20One-5new4).
+* [The intersectionality wars](https://www.vox.com/the-highlight/2019/5/20/18542843/intersectionality-conservatism-law-race-gender-discrimination).
+* [White Privilege: Unpacking the Invisible Knapsack](http://convention.myacpa.org/houston2018/wp-content/uploads/2017/11/UnpackingTheKnapsack.pdf).
+* [Who gets to be afraid in America](https://www.theatlantic.com/ideas/archive/2020/05/ahmaud-arbery/611539/).
+* [Race, Racism, and Equity: Making Black Lives Matter in the Workplace](https://www.linkedin.com/pulse/race-racism-equity-making-black-lives-matter-karlyn-percil-/).
+* [The Anti-Racist Starter Pack: 40 TV Series, Documentaries, Movies, TED Talks, and Books to Add to Your List ](https://parade.com/1046031/breabaker/anti-racist-tv-movies-documentaries-ted-talks-books/).
+
 
 ### Videos + Films
 
@@ -25,6 +38,10 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [An Economist Looks at 90: Tom Sowell on Charter Schools and Their Enemies](https://www.youtube.com/watch?v=9boQrCPwMws).
 * [The Struggles Of Being An Asian American](https://www.youtube.com/watch?v=9E0_8KPvOt0&feature=youtu.be).
 * [It's (NOT) Just a Phase - The Experiences on Nonbinary Folks 30-70 Years of Age](https://www.youtube.com/watch?v=Bo2FgrTfubw&app=desktop).
+* [Black Feminism & the Movement for Black Lives: Barbara Smith, Reina Gossett, Charlene Carruthers](https://www.youtube.com/watch?v=eV3nnFheQRo&feature=youtu.be).
+* [Dr. Robin DiAngelo discusses 'White Fragility'](https://www.youtube.com/watch?v=45ey4jgoxeU&feature=youtu.be).
+* ["How Studying Privilege Systems Can Strengthen Compassion": Peggy McIntosh at TEDxTimberlaneSchools](https://www.youtube.com/watch?v=e-BY9UEewHw&feature=youtu.be).
+
 
 ## Microaggressions
 
