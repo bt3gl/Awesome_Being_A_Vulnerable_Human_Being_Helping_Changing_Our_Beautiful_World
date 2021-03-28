@@ -91,3 +91,6 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Better Allies](https://betterallies.com/more-content/).
 * [The Anti-oppression Network](https://theantioppressionnetwork.com/allyship/).
 * [Tech needs more men](https://www.techneedsmoremen.com/).
+
+
+
